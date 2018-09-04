@@ -2,7 +2,7 @@
 
 pull request are highly appreciated, but this Repo should only contain the most important things :smile:
 
-- All of these tipps should used with common sense, they are not rules - they should help you write even more readable code
+- All of these tipps should be used with common sense, they are not rules - they should help you write even more readable code
 
 1. Never make functions or methods bigger than 40 lines of code.
 1. Give functions and classes matching names - nobody cares if the function name is long (in a common sense).
